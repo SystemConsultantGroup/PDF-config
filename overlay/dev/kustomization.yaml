@@ -8,4 +8,4 @@ resources:
 
 images:
 - name: jcy0308/pdf-module
-  newTag: fd07beb55573ff43355fd7d140ce84cc0559d293
+  newTag: 4ff0adb64d26f4a3ca5dcbe1d8ed2cc04f69b9bd
