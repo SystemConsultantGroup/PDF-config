@@ -15,7 +15,7 @@ spec:
       containers:
         - image: jcy0308/pdf-module
           imagePullPolicy: Always
-          name: pdf
+          name: pdf-module
           ports:
             - containerPort: 4000
           envFrom:
