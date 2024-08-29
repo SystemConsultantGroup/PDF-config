@@ -3,7 +3,7 @@ kind: Kustomization
 namespace: kafka
 resources:
 - secret.yaml
-- ../../../base
+- ../../base
 - namespace.yaml
 images:
 - name: jcy0308/pdf-module
